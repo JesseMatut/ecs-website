@@ -1,5 +1,3 @@
-# ecs-website
-ecs website assignment
 <!DOCTYPE html>
 <html> 
 <body bgcolor="6FFE01">
